@@ -1,0 +1,9 @@
+streamlit
+librosa
+matplotlib
+numpy<2.4
+numba>=0.60.0
+streamlit-webrtc
+av
+pydub
+ffmpeg 
